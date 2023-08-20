@@ -45,5 +45,3 @@ renanzanin01@gmail.com
 Este projeto é somente para fins educacionais.
 
 ---
-
-Este é um exemplo simples de um README que descreve as sessões de um projeto. Lembre-se de personalizar as informações conforme necessário para o seu projeto real. Inclua detalhes adicionais, como instruções de instalação, configuração do ambiente de desenvolvimento e qualquer outra informação relevante.
